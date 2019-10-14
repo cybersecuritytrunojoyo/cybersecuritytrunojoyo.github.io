@@ -1,3 +1,9 @@
+---
+layout: default
+title: Selamat Datang di Tantangan Cyber Security Trunojoyo
+description: Komunitas yang Bergerak dibidang keamanan Siber dan CTF
+---
+
 ## Selamat Datang di Tantangan Cyber Security Trunojoyo
 
 ## Petunjuk untuk Anda
