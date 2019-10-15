@@ -10,5 +10,5 @@ title: Cyber Security Trunojoyo
 
 ## <center>Gabung Bersama Kami</center>
 
-### [![Klik Here](/img/clickhere.png.png)](flag.html)
+### <center>[button url="flag.html"]</center>
 
