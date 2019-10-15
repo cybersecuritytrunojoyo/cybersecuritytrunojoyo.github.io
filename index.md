@@ -1,12 +1,14 @@
 ---
 layout: default
+title: Cyber Security Trunojoyo
 ---
 
-# Selamat Datang di Cyber Security Trunojoyo
+# <center>Selamat Datang di Cyber Security Trunojoyo</center>
+
 ## Berikut biografi dari CST UTM
 
 
-## Gabung Bersama Kami 
+## <center>Gabung Bersama Kami</center>
 
-### [Ikut Kak](flag.html)
+### [![Klik Here](/img/clickhere.png.png)](flag.html)
 
